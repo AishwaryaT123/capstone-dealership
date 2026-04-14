@@ -1,4 +1,0 @@
-Django
-gunicorn
-requests
-django-cors-headers
